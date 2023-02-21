@@ -1,7 +1,7 @@
 # Machine-learning
 python programs for ML
 
-ml1.py is about following problem statement
+ml_01.py is about following problem statement
 Feature Selection 
 Select any data set with high dimensions (such as Bostan dataset, breast cancer dataset) from any 
 repository of data such as SK-Learn, UCI library, Kaggle dataset library etc. Write a program to perform 
